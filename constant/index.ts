@@ -1,0 +1,1 @@
+export const navLinks = ['Home', 'Shop', 'Menu', 'Blog', 'Contact'];
